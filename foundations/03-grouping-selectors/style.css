@@ -2,3 +2,13 @@
     background-color: #000000;
     color: rgb(255, 255, 255);
 }
+
+.second {
+    background-color: rgb(253, 253, 59);
+}
+
+.first,
+.second {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
